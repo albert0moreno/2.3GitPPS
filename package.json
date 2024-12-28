@@ -1,0 +1,19 @@
+{
+  "name": "pps2.3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albert0moreno/2.3GitPPS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albert0moreno/2.3GitPPS/issues"
+  },
+  "homepage": "https://github.com/albert0moreno/2.3GitPPS#readme",
+  "description": ""
+}
